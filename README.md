@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MathijsTak
 - 👀 I’m interested in programming
-- 🌱 I’m currently in middelschool and want to learn more about AI
+- 🌱 I’m currently in university and study AI
 - 📫 How to reach me mathijs.tak@outlook.com
 
 <!---
